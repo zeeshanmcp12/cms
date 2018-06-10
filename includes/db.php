@@ -1,7 +1,7 @@
 <?php 
 
-$db['db_host'] = 'webappwithmysqldb.mysql.database.azure.com';
-$db['db_user'] = 'zeeshanmcp12@webappwithmysqldb';
+$db['db_host'] = 'localhost';
+$db['db_user'] = 'root';
 $db['db_pass'] = '';
 $db['db_name'] = 'cms';
 
